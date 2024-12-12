@@ -29,6 +29,13 @@ I developed a Power BI dashboard to track **targets and achievements** over time
 I designed a Power BI dashboard to showcase progress against **targets**, with detailed breakdowns by **quarters, weeks, and other time periods**. The dashboard includes **key performance indicators (KPIs)**, **growth trends**, and **contributions by category and channel**. It also features **ECO performance analysis**, **growth insights**, and a **geographic map view for stock levels**, offering a well-rounded perspective for analyzing current performance and planning for the future.  
 **Project Link**: [Comprehensive Progress Dashboard](https://shorturl.at/YX1Qx)  
 
+### Screenshots:  
+![Comprehensive Progress Dashboard Screenshot - Page 1](images/Sale%20Overview%20Dashboard_Third%20Project_page-0001.jpg)  
+![Comprehensive Progress Dashboard Screenshot - Page 2](images/Sale%20Overview%20Dashboard_Third%20Project_page-0002.jpg)  
+![Comprehensive Progress Dashboard Screenshot - Page 3](images/Sale%20Overview%20Dashboard_Third%20Project_page-0003.jpg)  
+![Comprehensive Progress Dashboard Screenshot - Page 4](images/Sale%20Overview%20Dashboard_Third%20Project_page-0004.jpg)
+
+
 ---
 
 ## **Project 4: Enhanced Dashboard with Expanded Features**  
