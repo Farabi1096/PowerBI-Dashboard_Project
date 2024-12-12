@@ -77,7 +77,7 @@ This project builds on the work from **Projects 2 and 3**, incorporating updated
 ---
 
 ### Description:  
-This project focuses on **enhancing the visual appearance** of my previous work from Projects 2 and 3. The goal is to present more **attractive visuals** and make it easier to understand the **sales achievements**, **KPIs**, **categories**, **brand contributions**, and **stock coverage** details, thereby improving the overall user experience and data-driven decision-making.
+This project focuses on **enhancing the visual appearance** of my previous work from Projects 2 and 3. The goal is to present more **attractive visuals** and make it easier to understand the **sales achievements**, **KPIs**, **categories**, **brand contributions**, and **Distribution House (DH) coverage details**, along with separate **stock details**. These updates aim to improve the overall user experience and support better data-driven decision-making.
 
 
 Thank you for exploring my portfolio. You can explore more of my work on GitHub.
