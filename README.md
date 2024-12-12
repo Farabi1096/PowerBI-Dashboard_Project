@@ -16,6 +16,8 @@ I created an Avengers-themed dashboard as my first Power BI project. This projec
 ## **Project 2: Performance Tracking Dashboard**  
 I developed a Power BI dashboard to track **targets and achievements** over time. The dashboard highlights **key performance indicators (KPIs)**, channel-wise brand contributions, and unique outlet performance (**ECO**) across various categories. It also includes metrics such as **order vs. issue**, **issue vs. delivery**, and **delivery loss**, providing a comprehensive overview of performance and supporting strategic decision-making.  
 **Project Link**: [Performance Tracking Dashboard](https://shorturl.at/3qDii)  
+[Download the Dashboard PDF](images/Sale%20Overview%20Dashboard_Second%20Project.pdf)
+
 
 ---
 
