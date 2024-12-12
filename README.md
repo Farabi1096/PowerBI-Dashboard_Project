@@ -2,6 +2,8 @@
 
 Welcome to my Power BI Project Portfolio! Below are the projects I've worked on, showcasing my skills in data visualization and business intelligence using Power BI.  
 
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/farabi-hsn/).  
+
 ---
 
 ## **Project 1: Avengers Dashboard**  
@@ -28,4 +30,4 @@ This project builds on the work from **Projects 2 and 3**, incorporating updated
 
 ---
 
-Thank you for exploring my portfolio. Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/farabi-hsn/). or explore more of my work on GitHub.  
+Thank you for exploring my portfolio. You can explore more of my work on GitHub.
