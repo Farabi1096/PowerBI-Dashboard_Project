@@ -7,7 +7,8 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/farabi-hs
 ---
 
 ## **Project 1: Avengers Dashboard**  
-I created an Avengers-themed dashboard as my first Power BI project. This project marked the beginning of my journey in learning and working with Power BI.  
+I created an Avengers-themed dashboard as my first Power BI project. This project marked the beginning of my journey in learning and working with Power BI. In this Power BI template, I created a **Sales Officer-wise ranking** with an Avengers theme, aiming to motivate sales officers to perform in a competitive, goal-oriented environment, creating a **challenging, competitive atmosphere** rather than just tracking their performance against targets.  
+
 **Project Link**: [Avengers Dashboard](https://shorturl.at/E0s0g)  
 
 ### Screenshots:  
@@ -18,6 +19,7 @@ I created an Avengers-themed dashboard as my first Power BI project. This projec
     </td>
   </tr>
 </table>
+
 
 
 ---
