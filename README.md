@@ -23,7 +23,6 @@ I created an Avengers-themed dashboard as my first Power BI project. This projec
 ### Description:  
 This project focuses on **motivating and engaging sales officers** through a competitive environment using the Avengers theme. It aims to foster a **challenging, goal-oriented atmosphere** by presenting a **Sales Officer-wise ranking**, making the performance tracking more interactive. The ultimate goal is not only to monitor performance but to enhance motivation through a **fun, engaging interface** that promotes continuous improvement.
 
-
 ---
 
 ## **Project 2: Performance Tracking Dashboard**  
@@ -42,7 +41,7 @@ This project focuses on **tracking the achievements** over time. The dashboard p
 ---
 
 ## **Project 3: Comprehensive Progress Dashboard**  
-I designed a Power BI dashboard to showcase progress against **targets**, with detailed breakdowns by **quarters, weeks, and other time periods**. The dashboard includes **key performance indicators (KPIs)**, **growth trends**, and **contributions by category and channel**. It also features **ECO performance analysis**, **growth insights**, and a **geographic map view for stock levels**, offering a well-rounded perspective for analyzing current performance and planning for the future.  
+I designed a Power BI dashboard to showcase progress, with detailed breakdowns by **quarters, weeks, and other time periods**. The dashboard includes **key performance indicators (KPIs)**, **growth trends**, and **contributions by category and channel**. It also features **ECO performance analysis**, **growth insights**, and a **geographic map view for stock levels**, offering a well-rounded perspective for analyzing current performance and planning for the future.  
 **Project Link**: [Comprehensive Progress Dashboard](https://shorturl.at/YX1Qx)  
 
 ### Screenshots:  
@@ -55,7 +54,8 @@ I designed a Power BI dashboard to showcase progress against **targets**, with d
 |----------------------------------|----------------------------------|  
 | ![Page 3](images/Sale%20Overview%20Dashboard_Third%20Project_page-0003.jpg) | ![Page 4](images/Sale%20Overview%20Dashboard_Third%20Project_page-0004.jpg) |
 
-
+### Description:  
+This project focuses on **tracking overall progress** with detailed insights into **key performance indicators (KPIs)**, **growth trends**, and contributions by **category and channel**. The dashboard helps to analyze **ECO performance**, identify **growth opportunities**, and gain insights from a **geographic map view** of stock levels. These features provide a comprehensive view for analyzing current performance and assisting in future planning and decision-making.
 
 ---
 
