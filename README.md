@@ -28,4 +28,4 @@ This project builds on the work from **Projects 2 and 3**, incorporating updated
 
 ---
 
-Thank you for exploring my portfolio. Feel free to connect with me on [LinkedIn](#) or explore more of my work on GitHub.  
+Thank you for exploring my portfolio. Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/farabi-hsn/). or explore more of my work on GitHub.  
