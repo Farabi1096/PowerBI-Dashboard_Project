@@ -42,6 +42,17 @@ I designed a Power BI dashboard to showcase progress against **targets**, with d
 This project builds on the work from **Projects 2 and 3**, incorporating updated **Power BI visuals** and additional components. New features include an **assortment report**, an **angels report view**, and detailed **DH coverage analysis**. These enhancements make the dashboard more robust and valuable for **performance tracking and strategic planning**.  
 **Project Link**: [Enhanced Dashboard with Expanded Features](https://shorturl.at/3Xn8i)  
 
+### Screenshots:  
+
+| Page 1                          | Page 2                          |  
+|----------------------------------|----------------------------------|  
+| ![Page 1](images/Sale%20Overview%20Dashboard_Fourth%20Project_page-0001.jpg) | ![Page 2](images/Sale%20Overview%20Dashboard_Fourth%20Project_page-0002.jpg) |  
+
+| Page 3                          | Page 4                          |  
+|----------------------------------|----------------------------------|  
+| ![Page 3](images/Sale%20Overview%20Dashboard_Fourth%20Project_page-0003.jpg) | ![Page 4](images/Sale%20Overview%20Dashboard_Fourth%20Project_page-0004.jpg) |
+
+
 ---
 
 Thank you for exploring my portfolio. You can explore more of my work on GitHub.
