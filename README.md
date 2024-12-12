@@ -18,8 +18,11 @@ I developed a Power BI dashboard to track **targets and achievements** over time
 **Project Link**: [Performance Tracking Dashboard](https://shorturl.at/3qDii)  
 
 ### Screenshots:  
-![Performance Tracking Dashboard Screenshot - Page 1](images/Sale%20Overview%20Dashboard_Second%20Project_page-0001.jpg)  
-![Performance Tracking Dashboard Screenshot - Page 2](images/Sale%20Overview%20Dashboard_Second%20Project_page-0002.jpg)
+
+| Page 1                          | Page 2                          |  
+|----------------------------------|----------------------------------|  
+| ![Page 1](images/Sale%20Overview%20Dashboard_Second%20Project_page-0001.jpg) | ![Page 2](images/Sale%20Overview%20Dashboard_Second%20Project_page-0002.jpg) |
+
 
 
 
