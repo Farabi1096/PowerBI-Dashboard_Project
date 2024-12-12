@@ -30,10 +30,15 @@ I designed a Power BI dashboard to showcase progress against **targets**, with d
 **Project Link**: [Comprehensive Progress Dashboard](https://shorturl.at/YX1Qx)  
 
 ### Screenshots:  
-![Comprehensive Progress Dashboard Screenshot - Page 1](images/Sale%20Overview%20Dashboard_Third%20Project_page-0001.jpg)  
-![Comprehensive Progress Dashboard Screenshot - Page 2](images/Sale%20Overview%20Dashboard_Third%20Project_page-0002.jpg)  
-![Comprehensive Progress Dashboard Screenshot - Page 3](images/Sale%20Overview%20Dashboard_Third%20Project_page-0003.jpg)  
-![Comprehensive Progress Dashboard Screenshot - Page 4](images/Sale%20Overview%20Dashboard_Third%20Project_page-0004.jpg)
+
+| Page 1                          | Page 2                          |  
+|----------------------------------|----------------------------------|  
+| ![Page 1](images/Sale%20Overview%20Dashboard_Third%20Project_page-0001.jpg) | ![Page 2](images/Sale%20Overview%20Dashboard_Third%20Project_page-0002.jpg) |  
+
+| Page 3                          | Page 4                          |  
+|----------------------------------|----------------------------------|  
+| ![Page 3](images/Sale%20Overview%20Dashboard_Third%20Project_page-0003.jpg) | ![Page 4](images/Sale%20Overview%20Dashboard_Third%20Project_page-0004.jpg) |
+
 
 
 ---
