@@ -27,7 +27,7 @@ This project focuses on **motivating and engaging sales officers** through a com
 ---
 
 ## **Project 2: Performance Tracking Dashboard**  
-I developed a Power BI dashboard to track **targets and achievements** over time. The dashboard highlights **key performance indicators (KPIs)**, channel-wise brand contributions, and unique outlet performance (**ECO**) across various categories. It also includes metrics such as **order vs. issue**, **issue vs. delivery**, and **delivery loss**, providing a comprehensive overview of performance and supporting strategic decision-making.  
+I developed a Power BI dashboard to track **achievements** over time. The dashboard highlights **key performance indicators (KPIs)**, channel-wise brand contributions, and unique outlet performance (**ECO**) across various categories. It also includes metrics such as **order vs. issue**, **issue vs. delivery**, and **delivery loss**, providing a comprehensive overview of performance and supporting strategic decision-making.  
 **Project Link**: [Performance Tracking Dashboard](https://shorturl.at/3qDii)  
 
 ### Screenshots:  
@@ -36,8 +36,8 @@ I developed a Power BI dashboard to track **targets and achievements** over time
 |----------------------------------|----------------------------------|  
 | ![Page 1](images/Sale%20Overview%20Dashboard_Second%20Project_page-0001.jpg) | ![Page 2](images/Sale%20Overview%20Dashboard_Second%20Project_page-0002.jpg) |
 
-
-
+### Description:  
+This project focuses on **tracking the achievements** over time. The dashboard provides **insights into key performance indicators (KPIs)** such as **order vs. issue**, **issue vs. delivery**, and **delivery loss**, helping to identify performance gaps and areas for improvement. Additionally, it highlights **brand contributions**, **ECO performance**, and provides a comprehensive view of performance metrics to support better strategic decision-making and enhance overall business performance.
 
 ---
 
