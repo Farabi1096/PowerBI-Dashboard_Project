@@ -1,40 +1,46 @@
-# 📊 Power BI Project Portfolio  
+# 📁 My Project Portfolio
 
-Welcome to my Power BI Project Portfolio! Below are the projects I've worked on, showcasing my skills in data visualization and business intelligence using Power BI.  
+Welcome to my Project Portfolio! This space highlights the work I’ve done in data analysis, visualization, and business intelligence, using tools like **Power BI** and **Excel**.
 
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/farabi-hsn/).  
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/farabi-hsn/) or check out more on [GitHub](https://github.com/Farabi1096/).
 
 ---
 
-## 🚀 Project 1: Avengers Dashboard  
-I created an Avengers-themed dashboard as my first Power BI project. This project marked the beginning of my journey in learning and working with Power BI. In this Power BI template, I created a **Sales Officer-wise ranking** with an Avengers theme, aiming to motivate sales officers to perform in a competitive, goal-oriented environment, creating a **challenging, competitive atmosphere** rather than just tracking their performance against targets.  
+## 📊 Power BI Works
 
-### 🖼️ Screenshot  
+### 🚀 Project 1: Avengers Dashboard  
+My first Power BI project—a **Sales Officer-wise ranking dashboard** with an Avengers theme! The aim was to create a **challenging and competitive environment** to motivate performance, rather than just track targets.
+
+#### 🖼️ Screenshot  
 ![Avengers Dashboard Screenshot](images/Avenger%20Dashboard_page-0001.jpg)
 
-### 📝 Description  
-This project focuses on **motivating and engaging sales officers** through a competitive environment using the Avengers theme. It aims to foster a **challenging, goal-oriented atmosphere** by presenting a **Sales Officer-wise ranking**, making the performance tracking more interactive. The ultimate goal is not only to monitor performance but to enhance motivation through a **fun, engaging interface** that promotes continuous improvement.
+#### 📝 Highlights  
+- Gamified, interactive experience  
+- Focused on **ranking and motivation**  
+- Created to enhance engagement and performance tracking  
 
 ---
 
-## 📈 Project 2: Performance Tracking Dashboard  
-I developed a Power BI dashboard to track **achievements** over time. The dashboard highlights **key performance indicators (KPIs)**, channel-wise brand contributions, and unique outlet performance (**ECO**) across various categories. It also includes metrics such as **order vs. issue**, **issue vs. delivery**, and **delivery loss**, providing a comprehensive overview of performance and supporting strategic decision-making.  
+### 📈 Project 2: Performance Tracking Dashboard  
+A dashboard to track sales **achievements and gaps**, including metrics like order vs. issue, issue vs. delivery, and delivery loss.
 
-### 🖼️ Screenshots  
+#### 🖼️ Screenshots  
 
 | Page 1 | Page 2 |
 |--------|--------|
 | ![Page 1](images/Sale%20Overview%20Dashboard_Second%20Project_page-0001.jpg) | ![Page 2](images/Sale%20Overview%20Dashboard_Second%20Project_page-0002.jpg) |
 
-### 📝 Description  
-This project focuses on **tracking the achievements** over time. The dashboard provides **insights into key performance indicators (KPIs)** such as **order vs. issue**, **issue vs. delivery**, and **delivery loss**, helping to identify performance gaps and areas for improvement. Additionally, it highlights **brand contributions**, **ECO performance**, and provides a comprehensive view of performance metrics to support better strategic decision-making and enhance overall business performance.
+#### 📝 Highlights  
+- Key KPIs to monitor sales operations  
+- **Brand contribution**, **ECO performance**, and outlet-level analysis  
+- Designed for strategic reviews  
 
 ---
 
-## 📊 Project 3: Comprehensive Progress Dashboard  
-I designed a Power BI dashboard to showcase progress, with detailed breakdowns by **quarters, weeks, and other time periods**. The dashboard includes **key performance indicators (KPIs)**, **growth trends**, and **contributions by category and channel**. It also features **ECO performance analysis**, **growth insights**, and a **geographic map view for stock levels**, offering a well-rounded perspective for analyzing current performance and planning for the future.  
+### 📊 Project 3: Comprehensive Progress Dashboard  
+Tracks progress across quarters and weeks, with a strong focus on **growth trends** and **stock visualization**.
 
-### 🖼️ Screenshots  
+#### 🖼️ Screenshots  
 
 | Page 1 | Page 2 |
 |--------|--------|
@@ -44,15 +50,17 @@ I designed a Power BI dashboard to showcase progress, with detailed breakdowns b
 |--------|--------|
 | ![Page 3](images/Sale%20Overview%20Dashboard_Third%20Project_page-0003.jpg) | ![Page 4](images/Sale%20Overview%20Dashboard_Third%20Project_page-0004.jpg) |
 
-### 📝 Description  
-This project focuses on **tracking overall progress** with detailed insights into **key performance indicators (KPIs)**, **growth trends**, and contributions by **category and channel**. The dashboard helps to analyze **ECO performance**, identify **growth opportunities**, and gain insights from a **geographic map view** of stock levels. These features provide a comprehensive view for analyzing current performance and assisting in future planning and decision-making.
+#### 📝 Highlights  
+- Period-based performance breakdown  
+- Visual insights into **growth** and **category/channel trends**  
+- Includes **stock-level geographic mapping**  
 
 ---
 
-## 📌 Project 4: Enhanced Dashboard with Expanded Features  
-This project builds on the work from **Projects 2 and 3**, incorporating updated **Power BI visuals** and additional components. New features include an **assortment report**, an **angels report view**, and detailed **DH coverage analysis**. These enhancements make the dashboard more robust and valuable for **performance tracking and strategic planning**.  
+### 📌 Project 4: Enhanced Dashboard with Expanded Features  
+An upgraded version of previous dashboards with better visuals and more detailed insights.
 
-### 🖼️ Screenshots  
+#### 🖼️ Screenshots  
 
 | Page 1 | Page 2 |
 |--------|--------|
@@ -62,10 +70,30 @@ This project builds on the work from **Projects 2 and 3**, incorporating updated
 |--------|--------|
 | ![Page 3](images/Sale%20Overview%20Dashboard_Fourth%20Project_page-0003.jpg) | ![Page 4](images/Sale%20Overview%20Dashboard_Fourth%20Project_page-0004.jpg) |
 
-### 📝 Description  
-This project focuses on **enhancing the visual appearance** of my previous work from Projects 2 and 3. The goal is to present more **attractive visuals** and make it easier to understand the **sales achievements**, **KPIs**, **categories**, **brand contributions**, and **Distribution House (DH) coverage details**, along with separate **stock details**. These updates aim to improve the overall user experience and support better data-driven decision-making.
+#### 📝 Highlights  
+- New features: **assortment report**, **angels view**, **DH coverage analysis**  
+- Focused on clarity and visual enhancement  
+- Supports data-driven decisions across different layers  
+
+---
+
+## 📊 Excel Dashboard Projects
+
+### 📌 Clean Business Dashboard using Excel  
+I built a **clean and professional business dashboard** in Excel using **Power Query** and **Power Pivot**. This dashboard turns raw data into actionable insights and supports **decision-making with clarity and precision**.
+
+#### 🖼️ Screenshot  
+![Excel Dashboard Screenshot](images/excel-dashboard.jpg)
+
+#### 📝 Highlights  
+- Built with **Power Query** for data transformation  
+- Used **Power Pivot** for efficient modeling  
+- Clean, user-friendly interface for insight-driven actions  
+- Ideal for non-technical users to quickly grasp key business metrics  
 
 ---
 
 ### 🙌 Thank You for Exploring My Portfolio!  
-You can explore more of my work on **[GitHub](https://github.com/Farabi1096/)**.
+Let’s connect and collaborate—open to opportunities, feedback, and new ideas.
+
+🔗 [LinkedIn](https://www.linkedin.com/in/farabi-hsn/) | 💻 [GitHub](https://github.com/Farabi1096/)
