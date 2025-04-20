@@ -83,7 +83,7 @@ An upgraded version of previous dashboards with better visuals and more detailed
 I built a **clean and professional business dashboard** in Excel using **Power Query** and **Power Pivot**. This dashboard turns raw data into actionable insights and supports **decision-making with clarity and precision**.
 
 #### 🖼️ Screenshot  
-![Excel Dashboard Screenshot](images/excel-dashboard.jpg)
+![Excel Dashboard Screenshot](images/excel%20dashboard.jpeg)
 
 #### 📝 Highlights  
 - Built with **Power Query** for data transformation  
