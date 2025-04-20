@@ -1,6 +1,6 @@
-# 📁 My Project Portfolio
+# 📁 Power BI Project Portfolio
 
-Welcome to my Project Portfolio! This space highlights the work I’ve done in data analysis, visualization, and business intelligence, using tools like **Power BI** and **Excel**.
+Welcome to my Power BI Project Portfolio! This space highlights the work I’ve done in **data analysis**, **visualization**, and **business intelligence** using **Power BI**.
 
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/farabi-hsn/) or check out more on [GitHub](https://github.com/Farabi1096/).
 
@@ -77,23 +77,7 @@ An upgraded version of previous dashboards with better visuals and more detailed
 
 ---
 
-## 📊 Excel Dashboard Projects
-
-### 📌 Clean Business Dashboard using Excel  
-I built a **clean and professional business dashboard** in Excel using **Power Query** and **Power Pivot**. This dashboard turns raw data into actionable insights and supports **decision-making with clarity and precision**.
-
-#### 🖼️ Screenshot  
-![Excel Dashboard Screenshot](images/excel%20dashboard.jpeg)
-
-#### 📝 Highlights  
-- Built with **Power Query** for data transformation  
-- Used **Power Pivot** for efficient modeling  
-- Clean, user-friendly interface for insight-driven actions  
-- Ideal for non-technical users to quickly grasp key business metrics  
-
----
-
-### 🙌 Thank You for Exploring My Portfolio!  
+### 🙌 Thank You for Exploring My Power BI Work!  
 Let’s connect and collaborate—open to opportunities, feedback, and new ideas.
 
 🔗 [LinkedIn](https://www.linkedin.com/in/farabi-hsn/) | 💻 [GitHub](https://github.com/Farabi1096/)
