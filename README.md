@@ -77,7 +77,7 @@ My first Power BI project—a **Sales Officer-wise ranking dashboard** with an A
 
 ---
 
-### 🙌 Thank You for Exploring My Recent Power BI Work!  
+### 🙌 Thank You for Exploring My Power BI Work!  
 Let’s connect and collaborate—open to opportunities, feedback, and new ideas.
 
 🔗 [LinkedIn](https://www.linkedin.com/in/farabi-hsn/) | 💻 [GitHub](https://github.com/Farabi1096/)
